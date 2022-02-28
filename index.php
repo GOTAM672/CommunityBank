@@ -12,6 +12,15 @@ and open the template in the editor.
     <body>
         
     <center><h1><u>CO-OPERATIVE BANKING</u></h1></center>
+    
+    <<footer>
+        <<ul>
+            <li>first</li>
+            <li>second</li>
+            <li>third</li>
+        </ul>
+
+    </footer>
     <nav>
         <a href="Next.html"><center>START</center></a>
     </nav>
